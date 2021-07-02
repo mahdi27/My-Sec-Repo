@@ -63,3 +63,6 @@ div.ex2{
     padding: 25px;
     background-color: teal;
 }
+.wrapper{
+    display: flex;
+}
