@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(61, 179, 114, .7);
+    background-image: url("image/bbb.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(82, 82, 27);
+    text-align: center;
+    border-color: orange;
+    border-style: outset;
+    border-width: 5px;
+}
+#par1{
+    font-size: 20px;
+    color: blueviolet;
+    border-style: dotted solid dashed solid;
+    border-color: red;
+
+}
+p.our{
+    color: crimson;
+    font-size: 25px;
+    background-image: url("image/aaa.jpg");
+}
+#par2{
+    background-color: sandybrown;
+    border-left: 10px solid red;
+    margin-left: inherit;
+}
+#par3{
+    font-size: larger;
+    background-color: rgb(182, 150, 122);
+    border-left: 10px solid red;
+    border-radius: 5px;
+    margin: 10px 30px;
+}
+#par4{
+    font-size: larger;
+    background-color: rgb(69, 238, 83);
+    border-left: 10px solid red;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+#par5{
+    font-size: larger;
+    background-color: rgb(96, 244, 237);
+    border: 5px solid red;
+    margin: 10px 30px 5px 15px;
+    padding: 10px 5px 10px 15px;
+}
+.sim1{
+    color: blue;
+    font-size: 130%;
+}
+div.ex1{
+    width: 300px;
+    background-color: yellowgreen;
+}
+div.ex2{
+    width: 300px;
+    padding: 25px;
+    background-color: teal;
+}
